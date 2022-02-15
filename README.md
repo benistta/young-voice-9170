@@ -1,4 +1,4 @@
-Howarts again was a challenging IC to complete. The first 12 tests were resolved by doing validations and running relationships between the models. Afeter the test were running I started to focus on the features tests. I went back yo models for testing the number of professors each student has and the average age of students. 
+Howarts again is a challenging IC to complete within a time block. The first 12 tests were resolved by doing validations and running relationships between the models. After all errors are resolved, features tests needed to be created and completed. Methods in the models were created for the number of professors each student has and the average age of students. 
 
 # Hogwarts Again
 
